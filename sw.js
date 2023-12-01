@@ -4,7 +4,7 @@ const CACHE_NAME = 'rib_cachePWA';
 //ficheros a cachear en app
 var urlsToCache=[
     './',
-    '.css/styles.css',
+    './css/styles.css',
     './icon1.ico',
     './img/1.png',
     './img/2.png',
